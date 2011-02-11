@@ -1,0 +1,5 @@
+; $Id$
+name = Piratenpartei JMStV
+description = Protestaktion gegen den #JMStV - Webseite für eine Stunde abschalten
+core = 6.x
+version = "6.x-1.0"
